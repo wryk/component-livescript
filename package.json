@@ -1,0 +1,29 @@
+{
+  "name": "component-livescript",
+  "version": "0.1.0",
+  "description": "LiveScript plugin for Component(1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wryk/component-livescript.git"
+  },
+  "keywords": [
+    "component",
+    "livescript",
+    "plugin"
+  ],
+  "author": "Mathieu Gallé-Tessonneau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wryk/component-livescript/issues"
+  },
+  "dependencies": {
+    "LiveScript": "~1.2.0"
+  },
+  "peerDependencies": {
+    "component": ">= 0.14"
+  }
+}
