@@ -1,4 +1,4 @@
-var livescript = require('livescript');
+var livescript = require('LiveScript');
 var path = require('path');
 var fs = require('fs');
 
