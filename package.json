@@ -1,6 +1,6 @@
 {
   "name": "component-livescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "LiveScript plugin for Component(1)",
   "main": "index.js",
   "scripts": {
